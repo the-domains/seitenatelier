@@ -1,14 +1,14 @@
-layout_spectrum: 0.9392463515978307
-typography_spectrum: 0.6840415862388909
+layout_spectrum: 0.48740171478129923
+typography_spectrum: 0.8038518014363945
 color:
-  brandStrength: 0.4320688594598323
-  lightness: 0.371914837975055
-  saturation: 0.5203292509540915
-  rhythmicContrast: 0.5567852079402655
+  brandStrength: 0.5183319333009422
+  lightness: 0.6354243722744286
+  saturation: 0.7968044430017471
+  rhythmicContrast: 0.4554836177267134
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Seitenatelier
