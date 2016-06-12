@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Seitenatelier]]></title>
+        <description><![CDATA[Seitenatelier]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 12 Jun 2016 12:24:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Seitenatelier Produkte]]></title>
+            <description><![CDATA[<article><h1>Seitenatelier Produkte</h1><p>Seitenatelier ist das Webdesign-Atelier in den Schweizer Alpen. Wir erstellen Webseiten / Homepages mobilfreundlich und SEO optimiert.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04031252726f62364dc17ea1c90aed323b5ed5de.jpg"></article>]]></description>
+            <link>http://www.seitenatelier.ch/produkte</link>
+            <guid isPermaLink="false">86a8159f-48bf-4175-8a87-6b18eb64c4d6</guid>
+            <pubDate>Sun, 12 Jun 2016 12:24:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
