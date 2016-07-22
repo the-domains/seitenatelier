@@ -17,3 +17,7 @@ navigation:
     url: 2016-06-12-was-zeichnet-das-seitenatelier-aus.html
     name: Atelier
     type: content
+  - id: 5acdd2b5-1211-48a8-a9bd-a5f769d186af
+    url: 2016-06-12-test.html
+    name: Produkte
+    type: content
