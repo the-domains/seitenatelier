@@ -12,3 +12,8 @@ color:
     - '#3498DB'
     - '#2980B9'
 name: Seitenatelier
+navigation:
+  - id: f64e869a-5108-46a4-947c-6d6014089d85
+    url: 2016-06-12-was-zeichnet-das-seitenatelier-aus.html
+    name: Atelier
+    type: content
