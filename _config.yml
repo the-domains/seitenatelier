@@ -13,11 +13,12 @@ color:
     - '#2980B9'
 name: Seitenatelier
 navigation:
-  - id: f64e869a-5108-46a4-947c-6d6014089d85
-    url: 2016-06-12-was-zeichnet-das-seitenatelier-aus.html
-    name: Atelier
+  - name: Atelier
+    id: f64e869a-5108-46a4-947c-6d6014089d85
     type: content
-  - id: 5acdd2b5-1211-48a8-a9bd-a5f769d186af
-    url: 2016-06-12-test.html
-    name: Produkte
+  - name: Produkte
+    id: 5acdd2b5-1211-48a8-a9bd-a5f769d186af
+    type: content
+  - name: über uns
+    id: d40a4e97-f812-4333-980a-8b3acd2dc951
     type: content
