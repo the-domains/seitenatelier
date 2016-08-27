@@ -6,8 +6,8 @@ description: >-
   an.Die von Seitenatelier erstellen Webauftritte lassen sichüber das
   Seitenatelier-CMS problemlos durch den Kunden aktualisieren.Ein stets
   aktueller Webauftritt ist somit garantiert.
-dateModified: '2016-07-22T08:50:54.194Z'
-datePublished: '2016-07-22T08:50:54.760Z'
+dateModified: '2016-08-26T16:15:45.780Z'
+datePublished: '2016-08-26T16:15:46.257Z'
 title: Was zeichnet das Seitenatelier aus?
 author: []
 sourcePath: _posts/2016-06-12-was-zeichnet-das-seitenatelier-aus.md
